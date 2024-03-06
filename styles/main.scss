@@ -34,15 +34,11 @@ h1 {
 	top: 3.125rem;
 	@include tablet {
 		flex-direction: row; 
-		/**
-			TODO: Fix me
-		**/
+		
 	}
 	@include desktop {
 		flex-direction: row; 
-		/**
-			TODO: Fix me
-		**/
+	
 	}
 }
 

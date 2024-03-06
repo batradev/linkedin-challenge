@@ -33,17 +33,11 @@ h1 {
 @media screen and (min-width: 768px) {
   .container {
     flex-direction: row;
-    /**
-    	TODO: Fix me
-    **/
   }
 }
 @media screen and (min-width: 1024px) {
   .container {
     flex-direction: row;
-    /**
-    	TODO: Fix me
-    **/
   }
 }
 
